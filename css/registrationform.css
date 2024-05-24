@@ -1,0 +1,80 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #000000;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size:xx-large;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.container {
+    width: 550px; /* Adjust width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    background-color: #ffffff; /* Background color of the container */
+    padding: 20px; /* Add some padding to the container */
+    border-radius: 10px; /* Add rounded corners */
+    margin-top: 50px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+button,
+input[type="radio"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #FFC149;
+    color: white;
+    border: none;
+    width: 100%; /* Make the button full-width */
+    height: 50px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Style for radio buttons */
+input[type="radio"] {
+    display: inline-block;
+    margin-top: 1px;
+    margin-right: 5px;
+}
+
+/* Style for labels of radio buttons */
+label[for="admin"],
+label[for="user"] {
+    display: inline-block;
+    margin-right: 5px;
+}

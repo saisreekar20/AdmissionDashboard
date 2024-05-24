@@ -1,0 +1,121 @@
+RegisteredName,Registered Email,RegisteredMobile,State,City,Status,registrationfee,RegisteredCampus,School,College,Country,Course,Gender,AssignToCounsellor,AdmissionCategory,IntermediateMarks,Department
+Amit Sharma,amitsharma@example.com,9169069505,Maharashtra,Mumbai,Pending,not paid,Vizianagaram campus,vishwa bharathi public school ,Vignan college,India,btech,Male,Kishore,EAPCET,95.6,ECE
+Priya Patel,priyapatel@example.com,9686200771,Gujarat,Ahmedabad,Accepted,Paid,Vizianagaram campus,geethanjali Public School,Narayana college,India,btech,Female,Sreekar,EAPCET,85.6,CSE
+Rahul Singh,rahulsingh@example.com,9349502251,Uttar Pradesh,Lucknow,Declined,Paid,PKD campus,Vignan Public School,sri chaitanya college,India,btech,Male,Kishore,EAPCET,65,MECH
+Anjali Gupta,anjaligupta@example.com,9554534159,Rajasthan,Jaipur,Accepted,Paid,Vizianagaram campus,kendriya Public School, Surya college,India,btech,Female,Kishore,EAPCET,75,CSE
+Ravi Kumar,ravikumar@example.com,9297949335,Delhi,Delhi,Accepted,not paid,Bhuvaneshwar campus,Bhasyam Public School,st.Anna's college,India,btech,Male,Sreekar,EAPCET,95.3,ECE
+Sneha Mishra,snehamishra@example.com,9743411217,Karnataka,Bangalore,Accepted,not paid,Bhuvaneshwar campus,Narayana Public School,kendriaya college,India,btech,Female,Sreekar,Management Quota,58.3,MECH
+Manish Singh,manishsingh@example.com,9804689338,Madhya Pradesh,Indore,Pending,Paid,Bhuvaneshwar campus,TBR Public School,govt. jr college,India,btech,Male,Praveen,Management Quota,65,CSE
+Pooja Sharma,poojasharma@example.com,9911125342,Maharashtra,Pune,Pending,Paid,PKD campus,Chaitanya Public School,Model college,India,btech,Female,Kishore,Management Quota,85,CSE
+Vikas Verma,vikasverma@example.com,9269003669,Tamil Nadu,Chennai,Accepted,Paid,Vizianagaram campus,Gokul Public School,Gokul college,India,btech,Male,Praveen,Management Quota,12,CSE
+Neha Singh,nehasingh@example.com,9394191391,Uttar Pradesh,Allahabad,Pending,not paid,Vizianagaram campus,CenturionPublic School,bharathi college,India,btech,Female,Sreekar,Management Quota,78,MECH
+Karan Gupta,karangupta@example.com,9207241476,Punjab,Chandigarh,Pending,not paid,PKD campus,laksya Public School,Sri devi coolege,India,btech,Male,Sreekar,EAPCET,89,CSE
+Shreya Patel,shreyapatel@example.com,9265075766,Gujarat,Surat,Accepted,Paid,PKD campus,Model Public School,AVK juniour college,India,btech,Female,Kishore,EAPCET,56.3,CSE
+Arun Kumar,arunkumar@example.com,9675029365,Andhra Pradesh,Hyderabad,Declined,Paid,PKD campus,Ideal Public School,Vasavi college,India,btech,Male,Kishore,EAPCET,75,ECE
+Sakshi Singh,sakshisingh@example.com,9396560057,West Bengal,Kolkata,Accepted,Paid,Bhuvaneshwar campus,vizag Public School,pragathi college,India,btech,Female,Praveen,Management Quota,58,ECE
+Rahul Sharma,rahulsharma@example.com,9462101933,Maharashtra,Nagpur,Pending,Paid,Vizianagaram campus,Neora Public School,Adithya college,India,btech,Male,Sreekar,Management Quota,65,MECH
+Nisha Patel,nishapatel@example.com,9807786697,Gujarat,Vadodara,Declined,not paid,PKD campus,christain Public School,Saraswathi juniour college,India,btech,Female,Praveen,Management Quota,95,ECE
+Sanjay Gupta,sanjaygupta@example.com,9507273483,Uttar Pradesh,Kanpur,Declined,Paid,Bhuvaneshwar campus,Sunflower Public School,Narayana college,India,btech,Male,Kishore,Management Quota,85,CSE
+Ananya Singh,ananyasingh@example.com,9484447046,Rajasthan,Udaipur,Pending,Paid,Vizianagaram campus,NeoraPublic School,Vignan college,India,btech,Female,Praveen,Management Quota,89,CSE
+Rajesh Verma,rajeshverma@example.com,9315972809,Delhi,New Delhi,Pending,Paid,Vizianagaram campus,Vignan Public School,sri chaitanya college,India,btech,Male,Praveen,Management Quota,87,MECH
+Deepika Sharma,deepikasharma@example.com,9232527670,Haryana,Gurgaon,Pending,not paid,Bhuvaneshwar campus,Millennium Public School,Gokul college,India,btech,Female,Sreekar,Management Quota,78.5,MECH
+Rajat Patel,rajatpatel@example.com,9132197733,Gujarat,Rajkot,Pending,Paid,Vizianagaram campus,Vishwa Public School,Pragathi college,India,btech,Male,Kishore,Management Quota,92.4,CSE
+Kritika Singh,kritikasingh@example.com,9346142549,Bihar,Patna,Accepted,Paid,PKD campus,Sunshine Public School,Sri devi college,India,btech,Female,Praveen,EAPCET,82.7,MECH
+Aryan Verma,aryanverma@example.com,9304279195,Uttar Pradesh,Varanasi,Pending,not paid,Vizianagaram campus,Geetanjali Public School,Narayana college,India,btech,Male,Kishore,Management Quota,75.8,CSE
+Neha Gupta,nehagupta@example.com,9975228493,Madhya Pradesh,Bhopal,Accepted,Paid,Bhuvaneshwar campus,Sunrise Public School,AVK junior college,India,btech,Female,Sreekar,EAPCET,67.2,ECE
+Mohit Kumar,mohitkumar@example.com,9815354595,Rajasthan,Jodhpur,Declined,Paid,Vizianagaram campus,Central Public School,Vignan college,India,btech,Male,Praveen,Management Quota,88.3,ECE
+Kavya Sharma,kavyasharma@example.com,9816032806,Punjab,Ludhiana,Pending,not paid,Bhuvaneshwar campus,Bluebell Public School,Pragathi college,India,btech,Female,Kishore,EAPCET,74.6,CSE
+Rohan Singh,rohansingh@example.com,9652159406,Maharashtra,Nashik,Accepted,Paid,Vizianagaram campus,Saraswathi Public School,Vasavi college,India,btech,Male,Sreekar,Management Quota,81.9,CSE
+Isha Verma,ishaverma@example.com,9611509224,Uttar Pradesh,Ghaziabad,Declined,Paid,PKD campus,Royal Public School,Gokul college,India,btech,Female,Praveen,EAPCET,91.5,CSE
+Vishal Patel,vishalpatel@example.com,9557160002,Gujarat,Vadodara,Pending,Paid,Bhuvaneshwar campus,Rainbow Public School,Sri devi college,India,btech,Male,Kishore,Management Quota,76.3,CSE
+Neha Verma,nehaverma@example.com,9968508793,Uttar Pradesh,Ghaziabad,Pending,not paid,PKD campus,Sunshine Public School,Sri Sai college,India,btech,Female,Sreekar,EAPCET,79.5,MECH
+Suresh Kumar,sureshkumar@example.com,9901026454,Tamil Nadu,Coimbatore,Accepted,Paid,Bhuvaneshwar campus,Vani Public School,College,India,btech,Male,Kishore,EAPCET,68.2,CSE
+Meera Devi,meeradevi@example.com,9158451974,Bihar,Patna,Declined,not paid,Vizianagaram campus,Gyan Bharati School,Vignan college,India,btech,Female,Praveen,Management Quota,73.8,CSE
+Rohan Patel,rohanpatel@example.com,9546282782,Gujarat,Vadodara,Pending,Paid,PKD campus,Little Flower School,Narayana college,India,btech,Male,Sreekar,Management Quota,82.1,ECE
+Kavita Sharma,kavitasharma@example.com,9923577763,Maharashtra,Nagpur,Accepted,not paid,Vizianagaram campus,St. Mary's School,sri chaitanya college,India,btech,Female,Kishore,EAPCET,91.4,ECE
+Varun Gupta,varungupta@example.com,9137342884,Uttar Pradesh,Agra,Declined,Paid,Bhuvaneshwar campus,Blue Bells School, Surya college,India,btech,Male,Praveen,Management Quota,76.5,CSE
+Swati Singh,swatisingh@example.com,9307737207,Bihar,Gaya,Accepted,Paid,Vizianagaram campus,City Public School,st.Anna's college,India,btech,Female,Sreekar,Management Quota,84.7,CSE
+Amarjeet Kaur,amarjeetkaur@example.com,9735474488,Punjab,Ludhiana,Pending,not paid,PKD campus,St. Xavier's School,kendriaya college,India,btech,Female,Kishore,EAPCET,77.9,ECE
+Mohan Das,mohandas@example.com,9133281158,Kerala,Kochi,Pending,not paid,Bhuvaneshwar campus,Sacred Heart School,govt. jr college,India,btech,Male,Praveen,Management Quota,88.3,ECE
+Preeti Gupta,preetigupta@example.com,9223039875,Uttar Pradesh,Varanasi,Declined,Paid,Vizianagaram campus,Saraswati Vidya Mandir,Model college,India,btech,Female,Kishore,EAPCET,72.6,ECE
+Ajay Kumar,ajaykumar@example.com,9100875106,Karnataka,Mysore,Accepted,Paid,PKD campus,Green Valley School,Gokul college,India,btech,Male,Sreekar,Management Quota,79.3,ECE
+Nidhi Verma,nidhiverma@example.com,9798563418,Delhi,Faridabad,Pending,Paid,Vizianagaram campus,Modern Public School,bharathi college,India,btech,Female,Kishore,Management Quota,85.2,ECE
+Vivek Singh,viveksingh@example.com,9405034411,Bihar,Bhagalpur,Accepted,not paid,Bhuvaneshwar campus,Vivekananda School,Sri devi coolege,India,btech,Male,Praveen,EAPCET,74.8,CSE
+Simran Kaur,simrankaur@example.com,9158025331,Punjab,Amritsar,Declined,not paid,Vizianagaram campus,Sacred Heart Convent,AVK juniour college,India,btech,Female,Sreekar,Management Quota,80.5,ECE
+Rahul Mehta,rahulmehta@example.com,9177085485,Haryana,Gurgaon,Pending,Paid,PKD campus,DAV Public School,Vasavi college,India,btech,Male,Kishore,Management Quota,93.1,MECH
+Priyanka Das,priyankadas@example.com,9711126745,West Bengal,Howrah,Accepted,Paid,Bhuvaneshwar campus,St. Joseph's School,pragathi college,India,btech,Female,Praveen,EAPCET,68.9,CSE
+Sushant Patel,sushantpatel@example.com,9930926504,Gujarat,Rajkot,Declined,Paid,Vizianagaram campus,St. Xavier's School,Adithya college,India,btech,Male,Sreekar,Management Quota,86.4,MECH
+Deepak Sharma,deepaksharma@example.com,9229676507,Rajasthan,Jodhpur,Pending,not paid,PKD campus,Rajput Public School,Narayana college,India,btech,Male,Kishore,EAPCET,82.7,ECE
+Neha Gupta,nehagupta@example.com,9499636602,Madhya Pradesh,Bhopal,Declined,Paid,Bhuvaneshwar campus,Oxford Public School,Vignan college,India,btech,Female,Praveen,Management Quota,76.2,ECE
+Arjun Singh,arjunsingh@example.com,9380176530,Karnataka,Hubli,Accepted,Paid,Vizianagaram campus,St. John's School,sri chaitanya college,India,btech,Male,Sreekar,EAPCET,89.4,CSE
+Kritika Verma,kritikaverma@example.com,9446072331,Uttar Pradesh,Meerut,Pending,Paid,PKD campus,Bright Future School,Narayana college,India,btech,Female,Kishore,Management Quota,83.8,CSE
+Akash Patel,akashpatel@example.com,9730489481,Gujarat,Gandhinagar,Accepted,not paid,Bhuvaneshwar campus,Swaminarayan School,kendriaya college,India,btech,Male,Praveen,Management Quota,78.5,ECE
+Ritu Sharma,ritusharma@example.com,9464559461,Maharashtra,Thane,Declined,not paid,Vizianagaram campus,Sunrise Public School,Model college,India,btech,Female,Kishore,Management Quota,81.6,CSE
+Vikram Singh,vikramsingh@example.com,9151043646,Haryana,Karnal,Pending,not paid,PKD campus,Shri Ram School,MR college,India,btech,Male,Sreekar,EAPCET,75.9,MECH
+Jyoti Gupta,jyotigupta@example.com,9677507577,Punjab,Patiala,Accepted,Paid,Vizianagaram campus,DAV Public School,Mangala giri college,India,btech,Female,Praveen,EAPCET,88.2,ECE
+Rohit Verma,rohitverma@example.com,9432522824,Rajasthan,Ajmer,Pending,Paid,Bhuvaneshwar campus,Tagore Public School,Narayana college,India,btech,Male,Kishore,Management Quota,79.3,MECH
+Poonam Singh,poonamsingh@example.com,9434881066,Uttar Pradesh,Ghaziabad,Declined,Paid,Vizianagaram campus,St. Teresa's School,AVK juniour college,India,btech,Female,Sreekar,Management Quota,86.7,CSE
+Harish Patel,harishpatel@example.com,9666754245,Gujarat,Bhavnagar,Accepted,not paid,PKD campus,Navyug Public School,Adithya college,India,btech,Male,Praveen,EAPCET,74.1,CSE
+Aarti Sharma,aartisharma@example.com,9675817439,Maharashtra,Nashik,Pending,Paid,Bhuvaneshwar campus,Millennium School,Vasavi college,India,btech,Female,Kishore,Management Quota,90.5,MECH
+Ajay Kumar,ajaykumar@example.com,9151061672,Bihar,Darbhanga,Declined,not paid,Vizianagaram campus,Holy Cross School,siva sakthi coolege,India,btech,Male,Sreekar,Management Quota,77.4,MECH
+Sonali Gupta,sonaligupta@example.com,9611404507,Uttar Pradesh,Agra,Accepted,Paid,PKD campus,City Montessori School,andalamma college,India,btech,Female,Praveen,EAPCET,85.3,MECH
+Deepak Verma,deepakverma@example.com,9228685669,Madhya Pradesh,Jabalpur,Pending,not paid,Vizianagaram campus,Birla Public School,Adithya college,India,btech,Male,Kishore,Management Quota,78.9,ECE
+Renuka Singh,renukasingh@example.com,9910748100,Bihar,Muzaffarpur,Declined,Paid,Bhuvaneshwar campus,St. Francis School,Narayana college,India,btech,Female,Sreekar,Management Quota,82.4,MECH
+Rohan Kumar,rohankumar@example.com,9413858130,Jharkhand,Ranchi,Accepted,Paid,PKD campus,DAV Public School,Vignan college,India,btech,Male,Praveen,EAPCET,79.6,CSE
+Anushka Patel,anushkapatel@example.com,9361683351,Gujarat,Jamnagar,Pending,Paid,Vizianagaram campus,Gurukul School,kendriaya college,India,btech,Female,Kishore,Management Quota,87.8,CSE
+Prakash Singh,prakashsingh@example.com,9697729778,Uttar Pradesh,Kanpur,Declined,not paid,Bhuvaneshwar campus,St. Mary's Convent,bharathi college,India,btech,Male,Sreekar,EAPCET,84.2,ECE
+Rajesh Sharma,rajeshsharma@example.com,9473884001,Punjab,Ludhiana,Accepted,Paid,PKD campus,School of Management,PCTE,India,bba,Male,Praveen,Management Quota,86.5,Accounts
+Sunita Verma,sunitaverma@example.com,9513633707,Uttar Pradesh,Varanasi,Declined,not paid,Bhuvaneshwar campus,School of Management,BHU,India,bba,Female,Kishore,Management Quota,77.3,Accounts
+Ashish Singh,ashishsingh@example.com,9844878577,Bihar,Patna,Pending,Paid,Vizianagaram campus,School of Management,NIT Patna,India,bba,Male,Sreekar,Management Quota,83.9,Accounts
+Ria Gupta,riagupta@example.com,9689304339,Gujarat,Ahmedabad,Declined,Paid,PKD campus,School of Management,CEPT University,India,bba,Female,Praveen,Management Quota,75.8,Accounts
+Rohan Verma,rohanverma@example.com,9353493597,Maharashtra,Pune,Accepted,not paid,Bhuvaneshwar campus,School of Management,Fergusson College,India,bba,Male,Sreekar,Management Quota,84.3,Accounts
+Kirti Sharma,kirtisharma@example.com,9962128195,Rajasthan,Jaipur,Pending,not paid,Vizianagaram campus,School of Management,LNMIIT Jaipur,India,bba,Female,Kishore,Management Quota,88.7,Accounts
+Deepak Singh,deepaksingh@example.com,9295579742,Uttar Pradesh,Agra,Declined,Paid,PKD campus,School of Management,Agra University,India,bba,Male,Praveen,Management Quota,76.2,Accounts
+Trisha Patel,trishapatel@example.com,9614640356,Gujarat,Surat,Accepted,Paid,Vizianagaram campus,School of Management,SVNIT,India,bba,Female,Sreekar,Management Quota,87.8,Accounts
+Ankit Singh,ankitsingh@example.com,9438146362,Bihar,Gaya,Pending,Paid,Bhuvaneshwar campus,School of Management,Magadh University,India,bba,Male,Kishore,Management Quota,82.7,Accounts
+Sonam Gupta,sonamgupta@example.com,9681000582,Maharashtra,Mumbai,Declined,not paid,PKD campus,School of Management,NMIMS,India,bba,Female,Praveen,Management Quota,75.4,Accounts
+Manish Kumar,manishkumar@example.com,9637559663,Rajasthan,Jodhpur,Accepted,not paid,Vizianagaram campus,School of Management,IIT Jodhpur,India,bba,Male,Sreekar,Management Quota,89.1,Accounts
+Anu Singh,anusigh@example.com,9238852475,Uttar Pradesh,Kanpur,Pending,Paid,Bhuvaneshwar campus,School of Management,IIT Kanpur,India,bba,Female,Kishore,Management Quota,87.3,Accounts
+Mohit Patel,mohitpatel@example.com,9908528807,Gujarat,Vadodara,Declined,Paid,Vizianagaram campus,School of Management,MSU Baroda,India,bba,Male,Praveen,Management Quota,78.6,Accounts
+Shikha Sharma,shikhasharma@example.com,9354526968,Maharashtra,Pune,Accepted,not paid,PKD campus,School of Management,Symbiosis Pune,India,bba,Female,Sreekar,Management Quota,84.9,Accounts
+Vivek Kumar,vivekkumar@example.com,9247690531,Bihar,Muzaffarpur,Pending,not paid,Vizianagaram campus,School of Management,B. R. Ambedkar Bihar,India,bba,Male,Kishore,Management Quota,83.2,Accounts
+Rekha Verma,rekhaverma@example.com,9873130375,Uttar Pradesh,Ghaziabad,Declined,not paid,Bhuvaneshwar campus,School of Management,AKGEC,India,bba,Female,Praveen,Management Quota,79.7,Accounts
+Ajay Singh,ajaysingh@example.com,9998895234,Madhya Pradesh,Indore,Accepted,Paid,Vizianagaram campus,School of Management,IIM Indore,India,bba,Male,Sreekar,Management Quota,88.9,Accounts
+Priya Sharma,priyasharma@example.com,9333332057,Maharashtra,Nagpur,Pending,not paid,PKD campus,School of Paramedics & Allied Health Science,Hislop College,India,bsc,Female,Kishore,Management Quota,92.1,Radiology
+Siddharth Gupta,siddharthgupta@example.com,9190986594,Uttar Pradesh,Lucknow,Accepted,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,Amity University,India,bsc,Male,Praveen,Management Quota,85.4,Forensic science
+Neha Sharma,nehasharma@example.com,9627314623,Punjab,Ludhiana,Declined,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,Punjab University,India,bsc,Female,Sreekar,Management Quota,78.9,Radiology
+Rohan Patel,rohanpatel@example.com,9436961088,Gujarat,Surat,Pending,not paid,PKD campus,School of Paramedics & Allied Health Science,SVNIT,India,bsc,Male,Kishore,Management Quota,83.7,Optometry
+Pooja Verma,poojaverma@example.com,9759134719,Rajasthan,Jaipur,Declined,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,Manipal University,India,bsc,Female,Praveen,Management Quota,75.2,Forensic science
+Amit Kumar,amitkumar@example.com,9348993117,Bihar,Patna,Accepted,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,NIT Patna,India,bsc,Male,Sreekar,Management Quota,79.5,Optometry
+Ritu Singh,ritusingh@example.com,9540729520,Uttar Pradesh,Allahabad,Pending,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,IIIT Allahabad,India,bsc,Female,Kishore,Management Quota,88.3,Anathesia
+Varun Sharma,varunsharma@example.com,9219166470,Haryana,Faridabad,Declined,not paid,PKD campus,School of Paramedics & Allied Health Science,YMCA University,India,bsc,Male,Praveen,Management Quota,82.6,Anathesia
+Sneha Gupta,snehagupta@example.com,9845317343,Maharashtra,Pune,Pending,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,Symbiosis Pune,India,bsc,Female,Kishore,Management Quota,90.1,Anathesia
+Akash Singh,akashsingh@example.com,9154970690,Uttar Pradesh,Varanasi,Accepted,not paid,Vizianagaram campus,School of Paramedics & Allied Health Science,BHU,India,bsc,Male,Sreekar,Management Quota,85.7,Forensic science
+Nidhi Sharma,nidhisharma@example.com,9777021135,Gujarat,Ahmedabad,Declined,Paid,PKD campus,School of Paramedics & Allied Health Science,Nirma University,India,bsc,Female,Praveen,Management Quota,77.8,Anathesia
+Manish Verma,manishverma@example.com,9688367506,Rajasthan,Udaipur,Accepted,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,IIM Udaipur,India,bsc,Male,Kishore,Management Quota,81.4,Forensic science
+Suman Patel,sumanpatel@example.com,9375118695,Madhya Pradesh,Indore,Pending,not paid,Vizianagaram campus,School of Paramedics & Allied Health Science,IIT Indore,India,bsc,Female,Sreekar,Management Quota,87.2,Forensic science
+Arjun Sharma,arjunsharma@example.com,9121143034,Punjab,Amritsar,Declined,Paid,PKD campus,School of Paramedics & Allied Health Science,GNDU,India,bsc,Male,Praveen,Management Quota,79.3,Radiology
+Kavita Singh,kavitasingh@example.com,9645546711,Uttar Pradesh,Ghaziabad,Accepted,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,AKGEC,India,bsc,Female,Kishore,Management Quota,88.6,Forensic science
+Rahul Verma,rahulverma@example.com,9266283611,Bihar,Gaya,Pending,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,Magadh University,India,bsc,Male,Sreekar,Management Quota,84.9,Anathesia
+Shweta Gupta,shwetagupta@example.com,9318618023,Gujarat,Rajkot,Declined,not paid,PKD campus,School of Paramedics & Allied Health Science,Saurashtra University,India,bsc,Female,Praveen,Management Quota,76.4,Forensic science
+Rohit Kumar,rohitkumar@example.com,9469427037,Bihar,Bhagalpur,Accepted,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,TMBU,India,bsc,Male,Kishore,Management Quota,82.3,Optometry
+Smita Sharma,smitasharma@example.com,9360807415,Maharashtra,Mumbai,Pending,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,Narsee Monjee,India,bsc,Female,Sreekar,Management Quota,89.7,Radiology
+Aditya Patel,adityapatel@example.com,9554171037,Gujarat,Vadodara,Declined,Paid,PKD campus,School of Paramedics & Allied Health Science,MSU Baroda,India,bsc,Male,Praveen,Management Quota,78.2,Radiology
+Priyanka Singh,priyankasingh@example.com,9969863476,Uttar Pradesh,Kanpur,Accepted,not paid,Vizianagaram campus,School of Paramedics & Allied Health Science,IIT Kanpur,India,bsc,Female,Kishore,Management Quota,86.5,Radiology
+Ankit Verma,ankitverma@example.com,9194229471,Uttar Pradesh,Lucknow,Accepted,Paid,PKD campus,School of Paramedics & Allied Health Science,IIM Lucknow,India,bsc,Male,Praveen,Management Quota,88.4,Radiology
+Poonam Gupta,poonamgupta@example.com,9726294491,Punjab,Ludhiana,Declined,not paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,Punjab Agricultural Uni,India,bsc,Female,Sreekar,Management Quota,79.1,Optometry
+Prashant Singh,prashantsingh@example.com,9282418314,Bihar,Patna,Pending,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,NIT Patna,India,bsc,Male,Kishore,Management Quota,85.6,Forensic science
+Shreya Verma,shreyaverma@example.com,9880310547,Gujarat,Ahmedabad,Declined,Paid,PKD campus,School of Paramedics & Allied Health Science,CEPT University,India,bsc,Female,Praveen,Management Quota,76.8,Radiology
+Vishal Patel,vishalpatel@example.com,9661927500,Maharashtra,Pune,Accepted,not paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,Fergusson College,India,bsc,Male,Sreekar,Management Quota,83.9,Anathesia
+Meenakshi Sharma,meenakshisharma@example.com,9191134602,Rajasthan,Jaipur,Pending,not paid,Vizianagaram campus,School of Paramedics & Allied Health Science,LNMIIT Jaipur,India,bsc,Female,Kishore,Management Quota,89.3,Optometry
+Ravi Singh,ravsingh@example.com,9129263840,Uttar Pradesh,Agra,Declined,Paid,PKD campus,School of Paramedics & Allied Health Science,Agra University,India,bsc,Male,Praveen,Management Quota,77.2,Optometry
+Tanvi Gupta,tanvigupta@example.com,9740567592,Gujarat,Surat,Accepted,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,SVNIT,India,bsc,Female,Sreekar,Management Quota,86.7,Anathesia
+Anil Kumar,anilkumar@example.com,9913154396,Bihar,Gaya,Pending,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,Magadh University,India,bsc,Male,Kishore,Management Quota,82.4,Radiology
+Kavita Sharma,kavitasharma@example.com,9854992800,Maharashtra,Mumbai,Declined,not paid,PKD campus,School of Paramedics & Allied Health Science,NMIMS,India,bsc,Female,Praveen,Management Quota,75.6,Optometry
+Abhishek Verma,abhishekverma@example.com,9421093595,Rajasthan,Jodhpur,Accepted,not paid,Vizianagaram campus,School of Paramedics & Allied Health Science,IIT Jodhpur,India,bsc,Male,Sreekar,Management Quota,89.2,Anathesia
+Riya Singh,riyasingh@example.com,9377470220,Uttar Pradesh,Kanpur,Pending,Paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,IIT Kanpur,India,bsc,Female,Kishore,Management Quota,87.9,Radiology
+Prakash Patel,prakashpatel@example.com,9814097394,Gujarat,Vadodara,Declined,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,MSU Baroda,India,bsc,Male,Praveen,Management Quota,78.3,Forensic science
+Sakshi Sharma,sakshisharma@example.com,9627544198,Maharashtra,Pune,Accepted,not paid,PKD campus,School of Paramedics & Allied Health Science,Symbiosis Pune,India,bsc,Female,Sreekar,Management Quota,84.7,Anathesia
+Sanjay Kumar,sanjaykumar@example.com,9259254473,Bihar,Muzaffarpur,Pending,not paid,Vizianagaram campus,School of Paramedics & Allied Health Science,B. R. Ambedkar Bihar,India,bsc,Male,Kishore,Management Quota,83.1,Anathesia
+Preeti Verma,preetiverma@example.com,9220229842,Uttar Pradesh,Ghaziabad,Declined,not paid,Bhuvaneshwar campus,School of Paramedics & Allied Health Science,AKGEC,India,bsc,Female,Praveen,Management Quota,79.8,Anathesia
+Aditya Singh,adityasingh@example.com,9603222726,Madhya Pradesh,Indore,Accepted,Paid,Vizianagaram campus,School of Paramedics & Allied Health Science,IIM Indore,India,bsc,Male,Sreekar,Management Quota,88.6,Radiology
