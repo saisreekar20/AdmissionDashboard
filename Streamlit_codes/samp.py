@@ -10,11 +10,11 @@ st.set_page_config(layout="wide")
 pio.renderers.default = 'browser'
 
 # Database connection settings
-db_host = 'localhost'
+db_host = 'sql12.freesqldatabase.com'
 db_port = '3306'
-db_name = 'admissiondashboard'
-db_user = 'root'
-db_password = ''
+db_name = 'sql12708926'
+db_user = 'sql12708926'
+db_password = '3p2AnmtVla'
 connection_string = f'mysql+pymysql://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}'
 engine = create_engine(connection_string)
 
