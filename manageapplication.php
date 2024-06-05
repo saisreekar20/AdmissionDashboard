@@ -156,7 +156,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <label for="registeredCampus">Registered Campus:</label>
             <select id="registeredCampus" name="registeredCampus" required>
                 <option value="select">Select</option>
-                <option value="Vizinagaram Campus" id="vzm">Vizianagaram Campus</option>
+                <option value="Vizianagaram campus" id="vzm">Vizianagaram Campus</option>
                 <option value="Paralakhemundi Campus" id="pkd">Paralakhemundi Campus</option>
                 <option value="Bhubaneshwar Campus" id="bbsr">Bhubaneshwar Campus</option>
             </select>

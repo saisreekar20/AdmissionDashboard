@@ -1,9 +1,9 @@
 <?php
 // Database connection parameters
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "admissiondashboard";
+$servername = "sql12.freesqldatabase.com";
+$username = "sql12708926";
+$password = "3p2AnmtVla";
+$database = "sql12708926";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
