@@ -15,7 +15,7 @@ def connect_to_database():
         if connection.is_connected():
             print("Connected to MySQL database")
             return connection
-    except mysql.connector.Error as error:
+    except pymysql.Error as error:
         print("Failed to connect to MySQL database: {}".format(error))
         return None
 
@@ -25,7 +25,7 @@ def fetch_data(connection, table_name):
         cursor.execute("SELECT * FROM {}".format(table_name))
         data = cursor.fetchall()
         return data
-    except mysql.connector.Error as error:
+    except pymysql.Error as error:
         print("Failed to fetch data from MySQL table: {}".format(error))
         return None
 
