@@ -1,11 +1,11 @@
-import pymysql
+import mysql.connector
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 
 def connect_to_database():
     try:
-        connection = pymysql.connect(
+        connection = mysql.connector.connect(
             host=" sql12.freesqldatabase.com",
             user="sql12711951",
             password="XGnGcadYwE",
@@ -15,7 +15,7 @@ def connect_to_database():
         if connection.is_connected():
             print("Connected to MySQL database")
             return connection
-    except pymysql.Error as error:
+    except mysql.connector.Error as error:
         print("Failed to connect to MySQL database: {}".format(error))
         return None
 
@@ -25,7 +25,7 @@ def fetch_data(connection, table_name):
         cursor.execute("SELECT * FROM {}".format(table_name))
         data = cursor.fetchall()
         return data
-    except pymysql.Error as error:
+    except mysql.connector.Error as error:
         print("Failed to fetch data from MySQL table: {}".format(error))
         return None
 
