@@ -5,10 +5,10 @@ import pandas as pd
 def connect_to_database():
     try:
         connection = mysql.connector.connect(
-            host=" sql12.freesqldatabase.com",
-            user="sql12708926",
-            password="3p2AnmtVla",
-            database="sql12708926"
+           host=" sql12.freesqldatabase.com",
+            user="sql12711951",
+            password="XGnGcadYwE",
+            database="sql12711951"
         )
         if connection.is_connected():
             print("Connected to MySQL database")
